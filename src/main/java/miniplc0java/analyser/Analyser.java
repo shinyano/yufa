@@ -11,11 +11,11 @@ import miniplc0java.tokenizer.Token;
 import miniplc0java.tokenizer.TokenType;
 import miniplc0java.tokenizer.Tokenizer;
 import miniplc0java.util.Pos;
-import sun.reflect.annotation.TypeAnnotation.TypeAnnotationTarget;
+//import sun.reflect.annotation.TypeAnnotation.TypeAnnotationTarget;
 
 import java.util.*;
 
-import jdk.nashorn.internal.ir.BreakableNode;
+//import jdk.nashorn.internal.ir.BreakableNode;
 
 public final class Analyser {
 
